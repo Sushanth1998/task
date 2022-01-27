@@ -1,0 +1,4 @@
+"username";"country";"full_name";"password";"role"
+"admin";"india";"Saathish";"$2a$10$Z5F2Elzpnwx6kp0CYLmdo.Tcv8SZWMANvlr/PWr6.IxWWXnAi7KNC";"ROLE_ADMIN"
+"superadmin";"Germany";"Vinod";"$2a$10$k2QbusIRmkvwzLTzB5Yj8ubJ9Sx6vax.21z/pdBr.v5fwEAJX14XS";"ROLE_SUPERADMIN"
+"user";"USA";"Gnanii";"$2a$10$KFsPE4H9buyijUht5nQU..qdpkDRA5q6zPeACtLVWAaDh3kMzPxXG";"ROLE_USER"
